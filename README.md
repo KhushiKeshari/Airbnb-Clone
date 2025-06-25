@@ -1,0 +1,1 @@
+Wanderlust is a work-in-progress full-stack web application inspired by Airbnb. The goal of this project is to create a platform where users can discover, list, and book unique properties worldwide. While the project is under development, key functionalities like listing creation and editing have been implemented, with many more features planned.
